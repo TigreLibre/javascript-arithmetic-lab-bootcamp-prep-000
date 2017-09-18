@@ -32,5 +32,3 @@ function makeInt(a) {
 function preserveDecimal(2.222) {
   return (2.222)
 }
-
-
