@@ -26,6 +26,11 @@ function dec(a) {
 }
 
 function makeInt(a) {
-  parseInt ('a', 10);
   return (a)
 }
+
+
+
+it('assumes base 10', function() {
+  expect(makeInt('0x2328')).toEqual(0)
+})
