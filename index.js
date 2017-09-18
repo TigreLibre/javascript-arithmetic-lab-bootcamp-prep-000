@@ -36,5 +36,3 @@ function preserveDecimal(2.222) {
 function isNan(preserveDecimal('sldkjflksjf') {
   return (true)
 }
-
-
