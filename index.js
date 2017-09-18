@@ -30,6 +30,5 @@ function makeInt(a) {
 }
 
 function (0x2328) {
-  return (0) 
+  return (0)
 }
-
